@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+}
+.container{
+    max-width: 1536px;
+    margin: 0 auto;
+}
+.flex{
+    display:flex;
+    justify-content: space-between;
+}
+p{
+color: #111827;
+}
+main{
+    background-color: #E5E7EB;
+}
+/* Header */
+.header{
+    background-color: #F9FAFB;
+}
+.hhh{
+    margin-top: 25px;
+}
+.header-text{
+    width: 349px;
+    font-size: 16px;
+    line-height: 24px;
+    direction: rtl;
+    margin-right: 12px;
+}
+.calls{
+    font-size: 24px;
+    line-height: 32px;
+    margin-left: 12px;
+}
+.logo{
+    max-width: 305px;
+}
+.logo-pic{
+    margin-bottom: 24px;
+}
+.logo-text{
+    margin-top: 21px;
+}
+.purple-button{
+    background-color: #8B5CF6;
+    color: #F9FAFB;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 4px;
+    border: none;
+    margin-left: 968px;
+}
+.pos{
+    max-width: 716px;
+    display: flex;
+    justify-content: space-between;
+}
+.flex-pos{
+   display: flex;
+   justify-content: space-between;
+   gap: 515px;
+}
+h1{
+    margin-left: 13px;
+}
+.header-right{
+    width: 343px;
+}
+.navigation-whole{
+    display: flex;
+}
+.nav-links{
+    max-width: 372px;
+    gap: 24px;
+}
+a{
+    text-decoration: none;
+    color: #111827;
+}
+a:hover{
+    color: #8B5CF6;
+}
+/* main */
+/* section1 */
