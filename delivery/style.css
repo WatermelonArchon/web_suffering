@@ -3,6 +3,13 @@ body {
     background-color: #E5E7EB;
     margin: 0px;
 }
+a:hover{
+color: #8B5CF6;
+}
+a:visited{
+color: #8B5CF6;
+text-decoration: dashed;
+}
 header {
     padding-top: 24px;
     padding-bottom: 24px;
@@ -117,8 +124,8 @@ header .container {
     text-decoration: none;
     color: black;
 }
-.header__bottom__menu .underlined {
-    border-bottom: 2px dashed #8B5CF6;
+.header__bottom__menu {
+    border-bottom: 2px;
 }
 .header__bottom__menu ul li:nth-child(2n + 1) a {
     color: #8B5CF6;
